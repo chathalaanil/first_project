@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the sample text for the page
+=======
+Edited this file
+>>>>>>> 99abf9745fd652f169c3485ab4d993173945b5f6
